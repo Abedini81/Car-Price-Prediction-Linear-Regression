@@ -4,7 +4,7 @@ This project uses machine learning techniques to predict car prices based on a v
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ├── LinearRegression_CarPricePrediction.ipynb # Main notebook file
 ├── README.md # This file
@@ -13,7 +13,7 @@ This project uses machine learning techniques to predict car prices based on a v
 
 ---
 
-## 🧠 Features
+## Features
 
 - Complete EDA (Exploratory Data Analysis)  
 - Data preprocessing (null check, encoding, scaling)  
@@ -24,7 +24,7 @@ This project uses machine learning techniques to predict car prices based on a v
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **Source:** Kaggle Car Price Prediction Dataset  
 - **Target Column:** `price`  
@@ -32,7 +32,7 @@ This project uses machine learning techniques to predict car prices based on a v
 
 ---
 
-## 🛠️ Tools and Libraries
+## Tools and Libraries
 
 - Python  
 - Pandas  
@@ -43,7 +43,7 @@ This project uses machine learning techniques to predict car prices based on a v
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Mean Absolute Error (MAE)  
 - Mean Squared Error (MSE)  
@@ -52,7 +52,7 @@ This project uses machine learning techniques to predict car prices based on a v
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone this repository  
 git clone https://github.com/yourusername/CarPricePrediction-LinearRegression.git cd CarPricePrediction-LinearRegression
@@ -63,7 +63,7 @@ git clone https://github.com/yourusername/CarPricePrediction-LinearRegression.gi
 
 ---
 
-## 📈 Sample Outputs
+## Sample Outputs
 
 ![Alt text](Plots/heatmap.png)
 ![Alt text](Plots/hist.png)
@@ -71,13 +71,3 @@ git clone https://github.com/yourusername/CarPricePrediction-LinearRegression.gi
 ![Alt text](Plots/pricebox.png)
 ![Alt text](Plots/actualvspredicted.png)
 ![Alt text](Plots/residual.png)
-
----
-
-## ✍️ Author
-
-- [Abedini]([https://github.com/yourusername](https://github.com/Abedini81))
-
----
-
-## ⭐ Star this repo if you found it helpful!
